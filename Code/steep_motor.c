@@ -24,8 +24,8 @@ sfr16 TMR2RL   = 0xca;                 // Timer2 reload value     Timer2重载值
 sfr16 TMR2     = 0xcc;                 // Timer2 counter					Timer2计数器
 
 sbit PULL = P0^0;		//脉冲
-sbit EN =  P0^2;		//使能（硬件差异）
-sbit DIR = P0^1;		//方向（硬件差异）
+sbit EN =  P0^1;		//使能（硬件差异）
+sbit DIR = P0^2;		//方向（硬件差异）
 sbit MS1 = P3^4;		//细分
 sbit MS2 = P3^3;		//细分
 

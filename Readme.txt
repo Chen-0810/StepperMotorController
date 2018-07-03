@@ -1,8 +1,8 @@
-#StepperMotorControllerOne
-步进电机控制器 一代
+#StepperMotorControllerTwo
+步进电机控制器 二代
 
 Code:	源代码
-Firmware:	可直接烧录使用。
+Firmware:	固件，可直接烧录使用。
 
 License
 
