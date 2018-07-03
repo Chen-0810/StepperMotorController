@@ -1,0 +1,23 @@
+此文件仅面向开发者！
+
+请耐心阅读以下内容以帮助您快速了解激光衰减器硬件设置！
+
+< 1 >关于硬件
+	1.建议使用9V/1A直流电源以保证衰减器的正常稳定运行
+
+< 2 > 关于板载固件更新
+	1.安装utidll.exe
+	2.安装完成后，打开Flash Programming Utility
+	3.插上下载器并保证驱动等安装正确，可以使用
+	4.点击Connect/Disconnect主选项卡，选择Debug Adapter选项卡下USB Debug Adapter选项
+	5.点击Connect按钮，完成下载器连接
+	6.选择Download Hex File/Go/Stop主选项卡
+	7.点击Browse按钮，加载该文件夹下StepperMotorController.hex
+	8.勾选Erase all Code Space before download.
+	9.点击Download按钮，若出现Succeeded Downloading Hex File.对话框，说明板载固件下载完成
+	10.点击Go按钮运行或Disconnect按钮断开下载器连接,衰减器即可运行。
+
+
+
+	
+
