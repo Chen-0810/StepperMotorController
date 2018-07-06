@@ -1,8 +1,8 @@
-#StepperMotorControllerOne
-²½½øµç»ú¿ØÖÆÆ÷ Èı´ú
+#StepperMotorControllerThree
+æ­¥è¿›ç”µæœºæ§åˆ¶å™¨ ä¸‰ä»£
 
-Code:	Ô´´úÂë
-Firmware:	¹Ì¼ş£¬¿ÉÖ±½ÓÉÕÂ¼Ê¹ÓÃ¡£
+Code:	æºä»£ç 
+Firmware:	å›ºä»¶ï¼Œå¯ç›´æ¥çƒ§å½•ä½¿ç”¨ã€‚
 
 License
 
@@ -14,5 +14,5 @@ License
 https://github.com/Chen-0810
 Email:Chen.0810@outlook.com
 
-¸üĞÂÈÕÖ¾£º
-	V1.1	2018/04/15	·¢²¼ÓÚGithub¡£
+æ›´æ–°æ—¥å¿—ï¼š
+	V1.1	2018/04/15	å‘å¸ƒäºGithubã€‚
